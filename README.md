@@ -1,4 +1,6 @@
-[Docs for svelte-preprocess. Special thanks to kaisermann](https://github.com/kaisermann/svelte-preprocess)
+[Special thanks to kaisermann for svelte-preprocess](https://github.com/kaisermann/svelte-preprocess)
+
+[Typescript has limited support](https://github.com/kaisermann/svelte-preprocess#typescript)
 
 Make sure your style and script tags have...
 ```
@@ -6,7 +8,7 @@ Make sure your style and script tags have...
 <script lang="typescript">
 ```
 
-I set the browserslist to last 2 versions in the package.json.
+browserslist set to last 2 versions in package.json.
 ___
 
 # sapper-template
