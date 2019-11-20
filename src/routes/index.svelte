@@ -35,7 +35,6 @@
 
   .test {
     background-color: pink;
-
     &_example {
       color: green;
     }
